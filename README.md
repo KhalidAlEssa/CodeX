@@ -18,7 +18,7 @@ $ python3 CodeX.py
 ```
 ### Pic 
 
-![CodeX] ()
+![CodeX] (https://github.com/KalidOp/CodeX/blob/main/IMG_3882.jpg)
 
 ### Special Thanks :
 - [***0x447***](https://github.com/0x447)
