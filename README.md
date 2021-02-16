@@ -1,8 +1,8 @@
 # CodeX
 CodeX Tool is to Convert Phishing page to qr code !
-# install : 
+# install
 
-$ git clone 
+$ git clone https://github.com/KalidOp/CodeX.git
  
 $ pip install -r requirements.txt
  
