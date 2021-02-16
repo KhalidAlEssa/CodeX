@@ -1,5 +1,5 @@
 # CodeX
-CodeX Tool is to Convert Phishing page to qr code !
+CodeX Tool is to Convert Phishing URL to qr code !
 ### install and Run
 
 - Clone this repository -
