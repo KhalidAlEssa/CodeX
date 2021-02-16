@@ -31,7 +31,7 @@ banner = f"""
         {x} instagram : {Fore.WHITE}https://www.instagram.com/t8qu_/       
         {x} Coded By : {Fore.WHITE}OpHacker - 0xBBD                    
         {Fore.GREEN}------------------------------------------------
-        {Fore.WHITE}[{Fore.RED}!{Fore.WHITE}] The Programmer of this tool is not irresponsible about any damage Or leak induced by the user 
+        {Fore.WHITE}[{Fore.RED}!{Fore.WHITE}] The Programmer of this tool is irresponsible about any damage Or leak induced by the user 
 """
 print(banner)
 # -- url to qr code -- #
